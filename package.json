@@ -1,5 +1,5 @@
 {
-  "name": "sf_oopapp",
+  "name": "to_do",
   "version": "1.0.0",
   "description": "Skillfactory educational project. Pure JS web-app  written with OOP.",
   "main": "app.js",
@@ -9,32 +9,31 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ledvanoff/sf_oopapp.git"
+    "url": "git+https://github.com/kerevkerev/Module_20"
   },
   "keywords": [
     "skillfactory",
     "js",
     "oop"
   ],
-  "author": "Oleg Ledvanov",
+  "author": "kerev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ledvanoff/sf_oopapp/issues"
+    "url": "https://github.com/kerevkerev/Module_20"
   },
-  "homepage": "https://github.com/ledvanoff/sf_oopapp#readme",
+  "homepage": "https://github.com/kerevkerev/Module_20",
   "devDependencies": {
-    "clean-webpack-plugin": "^3.0.0",
-    "css-loader": "^5.1.2",
-    "html-loader": "^2.1.2",
+    "css-loader": "^6.7.3",
+    "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.3.1",
-    "style-loader": "^2.0.0",
+    "style-loader": "^3.3.2",
     "webpack": "^5.25.0",
-    "webpack-cli": "^4.5.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
     "@popperjs/core": "^2.9.1",
     "bootstrap": "^5.0.0-beta2",
-    "uuid": "^3.4.0"
+    "uuid": "^9.0.0"
   }
 }
